@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Way Back</title>
+    <description></description>
+    <link>{{ site.github.url }}/</link>
+    <atom:link href="{{ site.github.url }}/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 Mar 2017 01:32:39 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2017 01:32:39 +0000</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Welcome to Our New(ly Updated) Blog</title>
+        <description>&lt;p&gt;Welcome back to The Way Back! It’s been a while since Tasha or I have updated the site. Part of the reason for this is because we have been in the process of migrating the site since the end of last summer, an admittedly drudgerous task, owing to the many photos and pages of text that required moving and reformatting.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Mar 2017 08:09:59 +0000</pubDate>
+        <link>{{ site.github.url }}/blogs/2017/03/13/welcome-to-the-new-way-back.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blogs/2017/03/13/welcome-to-the-new-way-back.html</guid>
+        
+        <category>simplicity</category>
+        
+        <category>complexity</category>
+        
+        
+        <category>blogs</category>
+        
+      </item>
+    
+      <item>
+        <title>Ode to Matt</title>
+        <description>&lt;p&gt;Hey y’all!  Today is Matt’s birthday. So, I thought I should put up an embarrassing gushing blog post about how wonderful he is.  Then I thought…probably nobody but me would want to read that.  So instead, I thought I’d put up an inventory of all the cool projects Matt has done here on the reLuxe Ranch.   In no specific order, here are just SOME of the amazing things Matt has contributed to us living the dream here on the reLuxe Ranch!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/tTyFtbV.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt is the maker, maintainer, and harvester of the Asparagus patch (which is in fern state right now, storing energy in the roots for next year).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/oVDzTOV.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt made our cats their own sandbox, which they failed to appreciate.  So he turned it into a turkey roost, which so far, only one of our turkeys has learned to use (through no fault of Matt’s perfect design). See how thoughtful he is?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/GKRQYdw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt installed our irrigation/aquaculture pond liner.  And he built these perfect chairs which we use for star gazing and cooling off after hot-tubbing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/JXHJvzQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt built a platform for our hot tub, assembled the tub, and installed a chimney in the green house.  He also heats it for us almost nightly in fall, winter, and early spring.  This keeps our greenhouse plants happy and me too!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/SyvUbQh.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh yes, and Matt built the greenhouse that holds the hot tub.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/ewZkK7W.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt made our pig shelter with rain barrel for water collection.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/MkzhF6D.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt put up our slaughter stand for scalding pigs. The area also now doubles as my duck slaughter station.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/PapDV2w.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt, with a little help from his brother and our friends, made us this awesome smoker which we use for our hams.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/HbhxprA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve had a few challenges keeping bees and hope to get back to it next year.  But Matt made us awesome top bar bee hives designed to support bees natural hive tendencies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/esTtMGB.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt did most of the heavy hauling for our hyper productive hugelcultures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/6hIyv6X.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt spruced up my terracing and erosion prevention systems with decorative rail ties and built steps into our paths.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/SfVqh7A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He also gave us a nice shortcut from our back door to the solar container and work areas using rail ties.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/zP4KhwT.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He made me a nice laundry line just out the door from the washer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/kF5bSWn.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He trellised our backyard vineyard so that we can eventually make our own yummy wines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/IICYuZd.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With the help of Ted (chainsaw master) and our neighbors Donnie and Anita, Matt maintains 200+ shiitake logs in our mushroom grotto.  His mushrooms have been a staple food for us this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/ETXRzo5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He made us this gorgeous Mount Airy granite herb spiral that is so productive I  have to mutilate the plants multiple times a year to keep the growth in check.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/5AvjlIp.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He made us this outdoor living room area and routinely makes me amazing cocktails to enjoy while relaxing in it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/lL25SSj.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He made me my dream farm table that seats 14 comfortably so we can host our friends and family often.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/PTrYPgu.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt created this incredible wood-fired pizza oven and makes the best sourdough pizza crust to cook in it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/vYJP77r.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And his most recent project, is a climbing wall to keep us both in good shape for climbing and other activities and to share even more good times with friends and family.&lt;/p&gt;
+
+&lt;p&gt;Now you can see for yourselves why Matt deserves an ode on his birthday.   But, as amazing as all this stuff is, the real reason he gets an ode is for all the stuff that’s not stuff. The way he cares for me, his constant support, being my rock when my dad had a stroke, letting me unload on him when the world is too much, and a million other kindness. Thank you Matt for everything! I love you. Happy birthday.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 08:09:59 +0000</pubDate>
+        <link>{{ site.github.url }}/blogs/2016/10/26/ode-to-matt.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blogs/2016/10/26/ode-to-matt.html</guid>
+        
+        <category>projects</category>
+        
+        
+        <category>blogs</category>
+        
+      </item>
+    
+      <item>
+        <title>Care and Feeding</title>
+        <description>&lt;p&gt;Hi Y’all! I am sorry it’s been so long since I posted anything on our blog. My dad had a totally unexpected stroke back on March 3 which has been life-changing for us. And honestly, I’ve been struggling to decide how to write about the experience.  I first wrote a long (of course) and critical post about our modern medical system and why I was an idiot for calling 911 and subjecting my dad to it.  I was at the final editing stage when I mentioned the subject to Matt over dinner.  With his usual candor, he replied, “Tasha, do you really think anyone wants to read about how broken our system is?” Since I had already painstakingly written 3343 words on the subject, he was lucky my wine glass was full or I would have hurled it at him.  But by the time we finished our talk and I emptied my glass, I realized he had a point.&lt;/p&gt;
+
+&lt;p&gt;Even writing about the experience made me angry. Recounting all the absurd and dangerous practices that qualify as “care” that cost patients and taxpayers ridiculous amounts of money probably increased my own risk of stroke.  Really though, I don’t want to be angry and I don’t want to write about things that will give other people reasons to be angry either.  Hate and anger make people crazy. Just look at all these race-based shootings by and/or at the police or the hate attacks in France and Florida. We don’t need more to be mad about.
+Note: My original rant was not about the hardworking professionals who did their best for my dad, but about the way insurance, lawsuit-driven risk management procedures, pharmaceutical companies, and algorithms determine standards of care, the overuse of antibiotics, and the detriment of over-compartmentalized job descriptions and unnecessary administrative requirements burdening staff. Some of you hardworking medical professionals were my best advisors during this time because you know the challenges. Your hard work is appreciated especially now that I understand better what you have to deal with on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;So, here’s my alternative posting, thanks to Matt’s intervention…
+My dad’s ten day hospital stint in Winston-Salem falls into the category of “shit happens”.  It’s behind us and thanks to the location of his brain hemorrhage, my dad can’t even remember being there.
+And I feel extremely fortunate that Matt and I have managed to live our lives in a manner that made it possible for me to care for my dad at home after emergency treatment ended. Many people are forced to work too many hours and have too much stress built into their lives to be able to provide round-the-clock care for incapacitated loved ones. Some people have their own limiting health concerns and don’t have the physical stamina to care for someone else. Changing a 150 pound adult’s “diaper”, lifting them on and off the bedside toilet, massaging their body parts, giving them sponge baths, and moving their limbs to prevent muscle atrophy are time-consuming and highly physical tasks. If my dad’s stroke had happened a few years ago, when I worked in the legal world, I would not have been either physically or time-wise capable of handling those tasks.  But homesteading has helped me reclaim my physical health and prepared me to care for my dad in countless ways.&lt;/p&gt;
+
+&lt;p&gt;I am really so thankful to have this “luxury”.  It may not seem like a luxury some days, but it’s exactly what we meant when we gave up our city lives and began to “reLuxe”.  We traded money for time.  And things for experiences. And I am so glad we did because our lives have become much richer in what matters as a result.&lt;br /&gt;
+Humans like to think we’re a special and distinct from the rest of nature.  But I can tell you after months of taking care of  my dad, from a physical perspective our needs are fundamentally the same as an animal’s.  After the initial shock of his stroke and panic about what to do about it wore off, I realized that most of what I did for my dad was a perfect parallel to what I did for chickens, ducks, pigs, goats, and in some ways even worms and plants.  I make his meals, clean his area, put on TV programs I know he’ll like, take him out for fresh air and sunshine, occasionally take him to town for distraction, help him with grooming, to the degree to which he is capable, I teach him how to do things to make it easier on me to care for him, etc.
+Humans need food, water, companionship, entertainment, and comfort.  We aim for the elimination of pain, distraction from it when elimination is impossible, and the illusion of safety.  On the Ranch, this is exactly what we provide for our animals.  When I write up my chore lists and daily duties, I lump these activities into a category called “Care and Feeding”.&lt;/p&gt;
+
+&lt;p&gt;Yet, we differ from animals in that we can brood over our plight and wallow in self-pity.  I have yet to see any of our farm animals do that.  And we can also transcend our experience and transform tragedies into new trajectories.
+What happened to my dad is not really a tragedy, but more a normal part of life.  Others have suffered, or are still suffering, much worse for reasons that make no sense like hatred and greed.  It’s hard to see it this way when your life is transformed into something totally unrecognizable in a matter of hours.  But in fact our bodies are built to decay.  Our time, in this iteration of ourselves, is limited. We know this, but we seem to need to be reminded.  And I have been. Watching my dad face his struggles with humor when he didn’t even know his name, or realized he needed the restroom but couldn’t get there on time, or when he finally got the spoon to his mouth only to discover he forgot to load it, has been one of the most humanizing and heart-breakingly beautiful experiences of my life.&lt;/p&gt;
+
+&lt;p&gt;My dad has always been one of my best friends.  I have sought his advice for all my struggles and have always eagerly shared successes with him, wanting him to be proud, not just of me, but of his own accomplishment in enabling mine. Some days I wish I could talk to him like I used to, but since his language skills are still a tangled mess, I can’t.  Even so, through his actions, the way he meets each day and each new obstacle (as there are literally thousands of things he has to relearn), he has perhaps demonstrated the most important lesson he will ever teach me.  I only hope that one day I’ll be able to face life with such grace.  And that’s what he has shown me.&lt;/p&gt;
+
+&lt;p&gt;Grace. The sublime gift of being, the simple elegance of meeting experiences honestly, and without anger. 
+There are things we can change and things we can’t.  The past for example, that’s done and gone. Megalithic systems like “health care” and Wall Street are facts of our world.  To some extent we are stuck with them for now, though we can minimize use and work towards change.  Climate change is real and we must face it.  Whatever we are at our core, we are still clothed in skin, bones, blood, organs, and biology.  Our bodies are vehicles that wear out and eventually fail.  But we still have choices to make.  We can meet our realities as my dad has.  With grace.  Or we can waste our energy being angry.&lt;/p&gt;
+
+&lt;p&gt;We can choose grace or anger or shades between. This is what makes us human.  The rest, from my perspective, is just care and feeding.&lt;/p&gt;
+
+&lt;p&gt;I owe a lot of people gratitude and appreciation for all their support through this time. We’re now getting a bit more traffic on our site thanks to some of our writings with Dark Mountain (Matt) and Mother Earth News and The Grow Network (Tasha), so in the interest of preserving everyone’s privacy, I won’t name you in this blog, but you know who you are. So, to those of you who suffered my angry rants while my dad was in the hospital - I’m sorry!  And thank you. You kept me sane. To those of you who have patiently listened while my dad chatted away about liver farts, fiddle faddles, and talked about himself as “her” and “she”,  as if you had any idea what he was trying to say, thank you.  You made me proud to call you friend. To those of you who cooked us food, visited us in the early days (when it was frankly painful to see), offered to take care of our animals or give Matt and I a night-off for a little romance, thank you.  You gave me hope that we could get through this.  We really are so lucky to be surrounded by such incredible community and family.  It honestly makes me wonder why we can’t solve the world’s problems when there are so many wonderful people in it.&lt;/p&gt;
+
+&lt;p&gt;On second thought…maybe we still can. At the very least, we can meet what comes with grace and in the company of good friends and family.&lt;/p&gt;
+
+&lt;p&gt;(And to Matt - You are too good to be true, and yet you prove with your actions and constant support that you are.  This is a paradox I may never unravel and yet am infinitely grateful for.)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+        <link>{{ site.github.url }}/blogs/essays/2016/07/27/care-and-feeding.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blogs/essays/2016/07/27/care-and-feeding.html</guid>
+        
+        <category>healthcare</category>
+        
+        
+        <category>blogs</category>
+        
+        <category>essays</category>
+        
+      </item>
+    
+      <item>
+        <title>reLuxe Mega Round Up - April 3, 2016</title>
+        <description>&lt;p&gt;Woo-hoo, time for another reLuxe (mega) Roundup! What makes this one a mega roundup, you might ask? Well, this one’s got lots of pictures (below the fold). Back when I started this blog, we were limited in how much we could store on the server. Now there’re no limits, and a picture’s worth a thousand words, so here we go.
+It’s been a while since Tasha or I wrote one of these, and there have been quite a few changes in the intervening seven months here at the Ranch. After a relatively painless and short winter, here we are, having come out the other side, to an early spring. With temperatures reaching into the 70s for the past couple weeks and Daylight Savings Time once again in effect, it’s been easy for both of us to get outside and get things done.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Woodford.jpg&quot; title=&quot;Woodford the Turkey&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of the 10 or so turkeys we have been raising since last summer, three remain. We haven’t slaughtered a single one—the others either didn’t make it to adulthood or died by misadventure (wandering off the farm and being chased by neighborhood dogs, we suspect). After losing our last two Slate Grays last month, Woodford—our Bourbon Red, and Ferdinand and Isabella—our two Spanish Blacks, have all essentially become pets.
+They follow us around whenever we work outside and are much more curious and intrepid than our chickens and ducks. They’ve become the peacocks that Tasha always wanted, and they don’t do nearly as much damage due to scratching as chickens. All in all, they tend to forage pretty well, eat a lot of pests we don’t want around anyway, and don’t require much care, so they get to stay.&lt;/p&gt;
+
+&lt;p&gt;Our ducklings, however, hatched last month in an incubator from eggs our permanent Pekins laid, won’t be so lucky. By the end of spring, they’ll be slaughtered for meat, although they’ll enjoy an idyllic and stress-free life here in the meantime. They’ll be free to roam once they’re big enough to leave the greenhouse that they share with Maggie, the single chicken that hatched a few days before the ducks. Maggie—we think it’s a female—will join the other layers in the coop once she’s large enough.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Ducklings.jpg&quot; title=&quot;Ducklings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Her mother was obviously one of our Barred-Rocks, and her father’s identity could only be Roscoe, the rooster who just showed up one day over the winter and decided to move in with our hens. They seem to like him well enough, though we eventually found out he belongs to a neighbor who rescued him but didn’t have a place to keep him. Well, problem solved. We’ve sort of gotten used to him starting to crow at 4:00 AM, from the chicken coop, which is directly behind our bedroom.&lt;/p&gt;
+
+&lt;p&gt;Over the winter we also spent a few weeks smoking the country hams which were hanging in the shop to dry out for a few months prior. At the end of February, we spent about a week using peach, hickory, and red oak to smoke the hams of various sizes. The largest ones, probably in the 40-to-50 pound range, will take another year to cure before they’re ready to eat, although the smaller ones should probably be ready this year. The two prosciuttos packed in salt and curing in bee boxes will soon join the hams in the smokehouse to finish out the aging process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Hams.jpg&quot; title=&quot;Hams in the smokehouse&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tasha has been busy with early spring starts like potatoes and transplanting cabbages from the greenhouse to the main garden. She’s also been planting another round of grape vines, fruit trees, shrubs, and perennials all around the property. The strawberries she planted last year are really taking off.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Cabbage Starts.jpg&quot; title=&quot;Cabbage Starts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Strawberries.jpg&quot; title=&quot;Strawberries&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The perennials planted last year and the year before seem to have mostly made it, and at the very least established their roots. Everything takes a little longer here, since there was essentially no topsoil on most of the property when we bought it. Some of our first intensively planted “food forest” groves—the areas adjacent to the outdoor dining area–are starting to take hold, in particular, the elderberry bushes, comfrey, yarrow, and goji berries.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Perennials.jpg&quot; title=&quot;Perennials&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In late March, we harvested our first crop of asparagus from our most recent (year-old) asparagus bed. Today shoots from the second-year bed, which I dug a little deeper, started to poke through the ground.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Asparagus.jpg&quot; title=&quot;Asparagus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With the return of mild temperatures and rain, our wide-ranging Shiitake strains have started fruiting again, as have, for the first time so far, the Wine Cap (King Stropharia) mushrooms Tasha inoculated last year in the mulch beneath our peach trees.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Shiitakes.jpg&quot; title=&quot;Shiitakes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The four excellent strains of Shiitake I purchased from Field and Forest last spring seem to have successfully colonized most of the inoculated logs. I’ve been soaking some of them in the bathtub we bought for use at last year’s pig slaughter to induce them to fruit and stacking them in tee-pee patterns around the trees in our mushroom grotto, the shaded area between the buck pen and the dining area.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Mushroom Logs.jpg&quot; title=&quot;Mushroom Logs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We built a buck pen for the male goats over the winter. Tasha built the shelter out of reclaimed shipping pallets and some new lumber and even outfitted it with a rainwater collection system and an automatic watering system. We sunk posts and ran fence around the shady area above the duck pond, which hosts some goat forage and provides a comfortable amount of space, but at a distance from the does.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Buck Pen.jpg&quot; title=&quot;Buck Pen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We built the separate pen so we can control the does’ pregnancies and milking cycles—we’re up to seven does now—and which goats breed with which. We’re still in the process of finding homes for our two wethers, but Popeye and Moose will remain. Tasha’s getting really good at making cheese.The blue cheeses she made recently with flora Danica smell just like the real deal (we’ll get to taste soon), and she’s been making some amazing fresh cheeses for a while now, having recently added haloumi to the list.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Does.jpg” title=”Does”&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;In my own spare time, I’ve been mostly occupying myself with maintenance projects. The semi-transparent pergola which followed us from Maryland and ended up on our terrace here has finally met its end. Last weekend, I spent a day or so rebuilding it with more durable and permanent materials, namely corrugated steel roofing and new pressure-treated framing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Outdoor Dining Area.jpg&quot; title=&quot;Outdoor Dining Area&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Both the pergola and the roof over the pizza oven were starting get a little weathered looking, so I stained them red, which certainly brightened things up a bit. To the table I built last year, I added another few coats of spar varnish, and Tasha weeded and cleaned the patio beneath it, so we’re ready for another season of outdoor living.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Table.jpg&quot; title=&quot;Table&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Besides working on the outside dining area, we’ve done a lot of work around the greenhouse and the high pond in front of it. Tasha did some more work on the semi-floating garden in the pond and mulched the paths around it. I put in a couple sets of stairs I cut from railroad ties, at either end of the greenhouse. This not only makes it easier to get to and from the greenhouse, but adds more visual appeal to the area around the pond, where we’ve placed the Adirondack furniture I built at the end of last summer from a load of reclaimed pallet lumber.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Greenhouse Stairs.jpg&quot; title=&quot;Greenhouse Stairs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And this is where we aspire to end up after the work’s done, at the end of a string of increasingly gorgeous days, relaxing by the pond and looking up at the stars. Till next time…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Adirondack Furniture.jpg&quot; title=&quot;Adirondack Furniture&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+        <link>{{ site.github.url }}/reluxe-roundups/2016/04/02/reluxe-mega-roundup-april-3-2016.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/reluxe-roundups/2016/04/02/reluxe-mega-roundup-april-3-2016.html</guid>
+        
+        <category>homesteading</category>
+        
+        <category>turkeys</category>
+        
+        <category>goats</category>
+        
+        <category>mushrooms</category>
+        
+        
+        <category>reLuxe-roundups</category>
+        
+      </item>
+    
+      <item>
+        <title>Shine, Perishing Republic</title>
+        <description>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;i&gt;While this America settles in the mould of its vulgarity, heavily thickening /&amp;nbsp;&lt;/i&gt;&lt;i&gt;to empire&lt;/i&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;i&gt;And protest, only a bubble in the molten mass, pops and sighs out, and the /&amp;nbsp;&lt;/i&gt;&lt;i&gt;mass hardens,&lt;/i&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;i&gt;I sadly smiling remember that the flower fades to make fruit, the fruit rots /&amp;nbsp;&lt;/i&gt;&lt;i&gt;to make earth.&lt;/i&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: right;&quot;&gt;--from &amp;ldquo;Shine, Perishing Republic&amp;rdquo; by Robinson Jeffers&lt;/div&gt;
+&lt;p&gt;Last Tuesday was primary day in North Carolina, so I went out to cast my vote for Bernie Sanders. It didn&amp;rsquo;t do much good here, where Hillary Clinton was heavily favored to win the Democratic primary. Hillary Clinton did win here, and in every other race on Tuesday, though by a very narrow margin in Illinois and Missouri. Throughout the campaign so far Sanders has done much better than initially expected, and even collected a big surprise win in Michigan, so I still believe anything is possible at this point.&lt;/p&gt;
+&lt;p&gt;But my hope and optimism surrounding a Sanders presidency is tempered with a certain amount of trepidation at how little a Sanders administration might actually be able to accomplish in a nation as hostile and divided as the United States has become in recent years, and maybe for other reasons as well, which I&amp;rsquo;ll get to later.&lt;/p&gt;
+&lt;p&gt;After the eight-year long spree that encompassed the George W. Bush administration&amp;rsquo;s imperial resource-grab, creation of the homeland security industrial complex, and accompanying rollback of constitutional rights, culminating with the economic meltdown of 2008, Obama&amp;rsquo;s mandate of &amp;ldquo;Hope and Change&amp;rdquo; seemed positively revolutionary, and so he easily won the presidency. Very little changed, however, during Obama&amp;rsquo;s soon-to-be eight-year administration. If anything, it was a continuation of all the disturbing trends&amp;mdash;failed military interventions and a pointlessly antagonistic and bellicose foreign policy stance, extrajudicial imprisonments and torture, and a blind eye turned toward regulating the unprecedented excesses of runaway capitalism vis-à-vis Wall Street and corporate America&amp;mdash;that distinguished the previous reign of the Neo-cons.&lt;/p&gt;
+&lt;p&gt;Obama&amp;rsquo;s meteoric rise to the presidency from relative obscurity along with the millions of dollars he received in campaign funding from Wall Street and other special interests suggest to my somewhat cynical mind that before he was ever elected, he was already in the pocket of the monied interests and deeper forces that have for some time now controlled the puppet show that I suspect the U.S. presidency has become.&lt;/p&gt;
+&lt;p&gt;Between the legalized bribery of campaign financing rules (Sanders won&amp;rsquo;t take corporate contributions, by the way); a hostile congress packed full of obstructionist Tea Party idiots like Trump&amp;rsquo;s closest rival for the Republican nomination, Ted Cruz; and the powerful undercurrents of the &lt;a href=&quot;http://billmoyers.com/2014/02/21/anatomy-of-the-deep-state/&quot; target=&quot;_blank&quot;&gt;Deep State,&lt;/a&gt; it&amp;rsquo;s difficult to imagine the President wielding any more real power than the British monarchy does today.&lt;/p&gt;
+&lt;p&gt;And so it&amp;rsquo;s for these reasons that I worry about the consequences of a Sanders victory. I don&amp;rsquo;t question his integrity or his ideals or his ability as a leader; on the contrary, I&amp;rsquo;m sure he&amp;rsquo;d be true to his convictions and make every effort to bring about the changes he&amp;rsquo;s campaigned on. Rather, I question the validity and the actual potency of the Office of the Presidency in this day and age. I worry about the ensuing death of idealism and democracy that would most certainly result from a hamstrung presidency. I can&amp;rsquo;t imagine a more ironically tragic turn of events than for a Sanders presidency to be the final nail in the coffin of democracy, the event that might ultimately lead to the breakup of the United States.&lt;/p&gt;
+&lt;p&gt;Sanders embodies, to me at least, the best ideals of Franklin Roosevelt&amp;rsquo;s New Deal democracy, which arguably saved capitalism from itself and led to a period of greater social mobility and relative income equality. Whether or not such a golden age of equality and prosperity is possible here again in the United States, I have my doubts. But in any case, the commitment of Bernie Sanders and Elizabeth Warren and a few others to these ideals, which have been largely abandoned by the mainstream Democratic Party, is at least an honest step in the right direction.&lt;/p&gt;
+&lt;p&gt;For the last 25 years or so, most mainstream Democrats, by way of contrast, have been almost indistinguishable in their positions from moderate Republicans. In fact, as many have noted, the sharp drift to the right in Republican politics now so evident can be traced back to the Clinton administration&amp;rsquo;s annexation of positions formerly held by moderate-to-conservative Republicans, i.e., free trade, deregulation, equivocation on social issues, etc.&lt;/p&gt;
+&lt;p&gt;The fealty of the Democratic Party to the billionaire class and the interests of neo-liberal economics and globalized trade began with Bill Clinton&amp;rsquo;s passage of NAFTA, GATT, and the WTO. These free-trade agreements resulted in the offshoring of many American jobs and the further decline of unions and the social mobility they represented, even while it offered a quick fix, a taste of ersatz prosperity for all, through the flood of suddenly cheap consumer goods, made possible in large part by the fortuitous and historically anomalous conditions of cheap oil and easy credit in the 1990s. The Obama administration have done their part at promoting free trade through the signing of the Trans Pacific Partnership, which is mostly a gift to American mega-corporations at the expense of everyone else.&lt;/p&gt;
+&lt;p&gt;It is this unsustainable and planetarily devastating orgy of consumption and increasing concentration of wealth from the many to the few that Dick Cheney has characterized as the &amp;ldquo;non-negotiable&amp;rdquo; American way of life, and it is what both Hillary Clinton and Donald Trump stand for, each in their own way.&lt;/p&gt;
+&lt;p&gt;Hillary Clinton represents the impossible and unsustainable maintenance of the status quo, of keeping the SUVs and Priuses of upper-middle-class suburbanite soccer moms driving to the Whole Foods for more cruelty-free meat and non-GMO snack foods, even while the former heirs to middle class prosperity in flyover country languish on unemployment, fight to make ends meet, or are busy drinking themselves to death, overdosing, or committing outright suicide at &lt;a href=&quot;http://www.nytimes.com/2015/11/03/health/death-rates-rising-for-middle-aged-white-americans-study-finds.html&quot; target=&quot;_blank&quot;&gt;epidemic rates.&lt;/a&gt; Though she&amp;rsquo;s received millions of dollars in funding and speaking fees from Wall Street banks and big corporations, Hillary would like us to believe that somehow she&amp;rsquo;s not beholden to them and will fight for the interests of the 99%. I don&amp;#39;t believe her for a second.&lt;/p&gt;
+&lt;p&gt;Hillary Clinton, like her husband, has never proven herself to be trustworthy. Even as she is campaigning for the Democratic nomination, she is under investigation by the FBI for alleged security breaches involving her private email server. Most polls also show Sanders faring much better than Clinton in a general election against Trump. But all of this is almost beside the point for the Democratic Party establishment, who insist on her inevitability as the next Democratic presidential nominee.&lt;/p&gt;
+&lt;p&gt;Donald Trump channels the anger and betrayal felt by many middle aged white people--the same ones who, when not self-destructing, are only too happy to blame the Democrats (rightly or wrongly) for their misfortune, along with Mexicans, Muslims, the Chinese, and anyone else Trump can think to cast as a scapegoat. Lost on them somehow is the fact that people like Trump, a representative of the billionaire class, are the very people they ought to blame for their economic misfortunes.&lt;/p&gt;
+&lt;p&gt;It is cut-throat businessmen like Trump, after all, who have always been only too happy to downsize, to outsource jobs or hire immigrant labor, if it means greater profits for them and their shareholders. He has never explained how exactly he intends to &amp;ldquo;make America great again,&amp;rdquo; and it doesn&amp;rsquo;t really matter to his followers, who love him not for the logic of his pronouncements but what he stands for, which is everything ugly, petty, and crass in American life. The real estate developer turned reality TV star has become a perverted model of what it means to be successful in America. Trump is the sneering, ostentatious embodiment of Ayn Rand&amp;rsquo;s ethos of greed, self-interest, and avarice. In spite of his bigotry, xenophobia, and frequent incitements of his supporters to violence, many so-called Christians are apparently supporting him in the race at this point.&lt;/p&gt;
+&lt;p&gt;The more Donald Trump succeeds in the primaries, the more obvious it becomes from his behavior and his utterances that he is unfit to hold higher office. I completely agree with this assessment, and many are now worrying about what could happen if he gets the Republican nomination. James Howard Kunstler has speculated on the possibility of a military coup or at least a constitutional crisis, should Trump win the general election. It is a measure of how perverted and twisted our so-called representative democracy has become that a military coup would be more preferable to some (as it is to me) than the idea of a Trump presidency.&lt;/p&gt;
+&lt;p&gt;Of course, the pursuit of infinite economic growth and endless prosperity is madness in its own right, and the illusion of it is increasingly difficult to sustain, even with the manipulations of currencies, markets, labor statistics, and the media. Both Trump and Clinton are only too happy to tell the American people the fairy tales they long to hear, like Reagan&amp;rsquo;s &amp;ldquo;Morning in America,&amp;rdquo; telling us how they will &amp;ldquo;make America great again,&amp;rdquo; or even worse &amp;ldquo;that America has always been great,&amp;rdquo; if only we&amp;rsquo;ll elect them to office.&lt;/p&gt;
+&lt;p&gt;It would be fitting for one of these two shills to be holding office to bear the consequences when the whole edifice of lies collapses, as surely it soon will. But of course, it will be the American people who will bear the consequences, and it will be then that we will most sorely need a real leader to move the nation forward and to calm an outraged and aggrieved populace.&lt;/p&gt;
+&lt;p&gt;To whatever extent the Office of the Presidency still reflects the will in good faith of a commander-in-chief, subordinate to no one but the American people, I hope for the sake of the American people that the next person to hold that office is Bernie Sanders.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+        <link>{{ site.github.url }}/essays/2016/03/20/shine-perishing-republic.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/essays/2016/03/20/shine-perishing-republic.html</guid>
+        
+        <category>robinson-jeffers</category>
+        
+        <category>politics</category>
+        
+        <category>election</category>
+        
+        <category>deep-state</category>
+        
+        <category>bernie-sanders</category>
+        
+        
+        <category>essays</category>
+        
+      </item>
+    
+      <item>
+        <title>Romantic Rendezvous at the reLuxe Ranch</title>
+        <description>&lt;p&gt;Now that we have a farm, and our lives are more attuned to natural cycles, I am beginning to understand the wisdom of celebrating Valentine's Day in February. With early vestiges of spring wafting in the wind and an abundance of cold, cuddly, starlit nights, romance is running rampant 'round here. Sadly, I am not talking about Matt and me. We're too busy getting projects done to have time. But our amorous animals are another story.&lt;/p&gt;
+
+&lt;p&gt;Back in December, we picked up two Berkshire piglets – a male and a female – for breeding. We are co-raising them with our wonderful neighbors, the Collins (Donnie, Anita, and their daughters Emma and Zoe). When we discovered that the pigs were too terrified of us to wire train them in our pig shelter, we put them in our goat house. The plan was for me to socialize them for a week or two to give the Collins a chance to build their pig shelter and run an electric fence. Then we would move the pigs to their official home and wire train them there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Aja+Tessie.JPG&quot; title=&quot;Aja and Tessie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Following a little building snafu and a run of bad weather, it's now almost two months later. And the pigs have become very comfortable in the goat barn. Actually, &lt;em&gt;comfortable&lt;/em&gt; is an understatement…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Popeye+Aja.JPG&quot; title=&quot;Popeye and Aja&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aja, the female pig, has been enjoying quite the romantic affair with our goat buck Popeye. The two have been exchanging belly rubs, sharing meals and drinks, and taking long walks in the pasture together. Popeye was also caught giving Aja a piggy-back ride. (I swear this is all true).&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, Tesla (Aja's intended pig-partner) has displayed his dismay in fits of rage ranging from dumping the goats' water buckets to woefully and incessantly bemoaning Aja's lack of attention. Our three sweet October-born does-in-training, Georgette, Claudine (the little coquette pictured below), and Sofia, have tried cajoling Tesla out of his depression by nibbling on his ears and tail. But alas, the broken-hearted boar-to-be refuses to be consoled.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Kids.JPG&quot; title=&quot;Kids in the Goat Pen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a last ditch effort to stifle the ill-fated affair between Popeye and Aja, and re-kindle the romance between Aja and Tesla, we finally finished our long-awaited goat buck pen today. (A huge thanks to Donnie and Anita for &quot;happening by&quot; just in time to help us roll out 330 pounds of wire mesh fencing yesterday).&lt;/p&gt;
+
+&lt;p&gt;We moved all five of our goat boys in at once. There was tremendous whining from our three young wethers (who are also being weaned from milk in the move).  If you know anyone who needs a wether, send them our way.  These little guys are ready to be family pets for anyone who wants more adorable in their lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Moose.JPG&quot; title=&quot;Moose&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And Moose, Popeye's son and fellow buck, was the most insistent about staying with the does. Through sheer determination and extraordinary effort, I managed to wrangle him and coerce him to the new pen. I guess Matt's right after all, I really am more stubborn than a goat.&lt;/p&gt;
+
+&lt;p&gt;Popeye, much to our shock and surprise, went quietly. We're hoping the exciting new 'amenities' in his new home will convince Popeye that a little separation from the ladies is a good thing.&lt;/p&gt;
+
+&lt;p&gt;These amenities include:&lt;/p&gt;
+
+&lt;p&gt;1) A rain-collecting, gravity-fed, automatic water trough.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Water System.JPG&quot; title=&quot;Water System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2) A built-in food pantry, a.k.a. metal drum with blocks at base and bar at top to keep goats from tipping it over.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Water System 2.JPG&quot; title=&quot;Water System 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3) A “second story”  storage loft. Note the four straw bales just under the roof at the back of the goat shelter, this shelf is just high enough that the goats can't reach the straw, but I can still toss the bales up there without needing Matt's help.  Also, the bales provide some extra insulation for cold winter nights.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Buck Pen.JPG&quot; title=&quot;Buck Pen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Really though, we fully expect that our philandering, seed-sowing, face-peeing, paragon of goat masculinity will eventually put up more of a fight once he realizes his new bachelor pad comes with an electrified fence and a shortage of females (of both the goat and pig persuasion).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Popeye 2.JPG&quot; title=&quot;More Popeye&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sorry Popeye, but your days of indiscretion are over. Discreet, supervised dates are all you have to look forward to. Well that…and greener pastures.&lt;/p&gt;
+
+&lt;p&gt;Perhaps now that this project is done,  Matt and I can finally take our long-awaited romantic trip to Asheville.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+        <link>{{ site.github.url }}/blogs/2016/02/01/romantic-rendezvous-at-the-reluxe-ranch.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blogs/2016/02/01/romantic-rendezvous-at-the-reluxe-ranch.html</guid>
+        
+        <category>pigs</category>
+        
+        <category>goats</category>
+        
+        <category>buck-pen</category>
+        
+        
+        <category>blogs</category>
+        
+      </item>
+    
+      <item>
+        <title>Man on Wire</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/2016-01-15-man-on-wire/Man on Wire.jpg&quot; title=&quot;Does&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;copy;2008 Jean-Louis Blondeau / Polaris Im&lt;/strong&gt;&lt;strong&gt;ages.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tonight Tasha and I watched James Marsh&amp;#39;s excellent and inspiring documentary&amp;nbsp;&lt;em&gt;Man on Wire&lt;/em&gt;. The film is about Philippe Petit, the Frenchman who walked on a wire strung between the two towers of the World Trade Center in August of 1974. Before watching the film, I was somewhat familiar with this event that took place several months before I was born, for which Petit is still famous, but I had no idea of the extent to which Petit had gone in planning what was dismissed by many as a crazy stunt.&lt;/p&gt;
+&lt;p&gt;The film starts out with an account of the day leading up to the event--which ultimately took place the next morning--told by the various participants and co-conspirators, and then pulls back to detail the root of what became Petit&amp;#39;s obsession--to walk between the two towers. He&amp;#39;s in a dentist&amp;#39;s office awaiting his turn and is reading a newspaper describing how the World Trade Center--not yet built at the time--would become the tallest buildings on the planet. He tears the story from the paper and runs out of the waiting room. What follows is a gloriously Herzogian story of passion, drive, charisma and intensity that spans several years and three continents and involves many collaborators, ultimately culminating in the famous walk between the towers.&lt;/p&gt;
+&lt;p&gt;We witness Petit&amp;#39;s first public walk, between the two towers of the Notre Dame, and then a subsequent crossing of the two pylons of Sydney&amp;#39;s famous bridge, in Australia. We meet his collaborators and his girlfriend of the time, who in recounting their involvement seem only too happy to have spent many months of their time and effort and risked jail time in assisting him with his endeavors and training. As the documentary plays out and the action shifts back and forth between Paris and New York, we learn of the ingenious ruses that Petit and company employed to recon the site of their adventure, one time passing themselves off as a French media outfit in order to get photos and gather intelligence about the structure of the towers&amp;#39; rooftops. Another time, they hire a helicopter to get pictures from the air. The film shows the dioramas of the rooftop painstakingly built by Petit and discusses the detailed logistics involved in their many forays into the off-limits areas of the towers, which were still under construction even as Petit was working on the final plans for his walk.&lt;/p&gt;
+&lt;p&gt;As the day and night leading up to the walk arrive, the participants recount the serendipitous luck they had in gaining entrance to the rooftops of the towers, followed by their near discovery by a security guard. Petit and an accomplice spend hours balanced on a steel beam hiding beneath a tarp before they dare to sneak past the security guard and onto the rooftop proper. As the night turns into morning, they encounter several unanticipated logistical setbacks in rigging the cable.&lt;/p&gt;
+&lt;p&gt;Finally, as morning progresses and Petit&amp;#39;s chance is beginning to disappear, he steps out onto the wire around 7:00 AM, 1350 feet above Manhattan. There is apprehension and uncertainty in Petit&amp;#39;s face as he sets out onto the high wire, but it is soon replaced with a beatific smile. For the duration of the walk, his face bears an expression of radiant concentration mingled with utter joy as he plays in the air a quarter mile above the city streets, from where he later recounts hearing-- or imagining to hear--the roar of the crowd gathered far below. As he lies down on his back at the midpoint of the wire halfway between each tower, I&amp;#39;m overwhelmed by the magnificent and preposterous sublimity of his situation: He is a calm center, a fulcrum on which the precipitous enormity of the world meets utter stillness and rests for a short time in a fine balance.&amp;nbsp;Over 45 minutes he makes eight passes between the two towers before acceding to the demands of the police that he come down.&lt;/p&gt;
+&lt;p&gt;Of course, Petit and his friends and accomplices are arrested, and Petit is later taken in for psychiatric evaluation. Ultimately, he is released and charges against him are dropped and he becomes a celebrity. &amp;nbsp;Petit does not remain unchanged by his celebrity, and his relationships with those who helped him achieve his life&amp;#39;s ambition deteriorate, as they remain in the shadows while he is widely celebrated for his stunt.&lt;/p&gt;
+&lt;p&gt;What resonated with me perhaps the most in&amp;nbsp;&lt;em&gt;Man on Wire&amp;nbsp;&lt;/em&gt;was not Philippe Petit&amp;#39;s skill in walking between the towers, rare and impressive as it may be, but the single-minded purpose with which he set about accomplishing his goal over the course of many years, which in and of itself would seem an act of madness and utter folly to many. Further still, he was successful in convincing others to give of their own time, money and resources, and risk their freedom to help him in his project. The doggedness and passion with which he pursued this walk, which was the defining moment of his life, is incredible and inspiring to me, in the way of Shackleton&amp;#39;s exploration of Antarctica or Herzog&amp;#39;s &lt;em&gt;Fitzcaraldo&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I can think of few well-known parallels, historical of fictitious, where skill, passionate intensity of purpose, and a life shared with others in a spirit of convivial adventure come together to produce what can only be adequately described as luminous moments of art, at least as they are so adeptly conveyed by Marsh&amp;#39;s film. Maybe some of this is the stuff that initially drew me--and still draws me--to rock climbing. Though I&amp;#39;ll never be an Alex Honnold or Dean Potter, I can still experience subjectively those precious moments of flow where adrenaline, fear, and apprehension give way to a certain calm euphoria that ripples through the consciousness like a gentle breeze. I know plenty of others spend years chasing it, choosing to live the life of the dirtbag climber, ski bum, river rat, or BASE junkie.&lt;/p&gt;
+&lt;p&gt;In fact, it&amp;#39;s hard for me to imagine why so many people choose to live a life constrained by debt, career, and conventional social obligations that numb the senses and the soul and offer so little in return. Why is it that Phillipe Petit&amp;#39;s quest would appear to many as utter madness, when the real insanity is an utterly conventional and superficial life of financial ambition, aspired to by so many, the highlights of which are a nice car, a corner office and the promise of a retirement spent on a golf course. The world is a much more vital, joyous, and interesting place thanks to the likes of Philippe Petit, the &lt;a href=&quot;http://snowbrains.com/video-proof-that-the-french-are-crazy/&quot;&gt;Fabulous Flying Frenchies&lt;/a&gt;, Alex Honnold, and all the unknown others out there, doing it because they love it, and because they have to...&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+        <link>{{ site.github.url }}/reviews/2016/01/15/man-on-wire.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/reviews/2016/01/15/man-on-wire.html</guid>
+        
+        <category>phillipe-petit</category>
+        
+        <category>james-marsh</category>
+        
+        <category>man-on-wire</category>
+        
+        <category>fabulous-flying-frenchies</category>
+        
+        
+        <category>reviews</category>
+        
+      </item>
+    
+      <item>
+        <title>A World of Opportunities</title>
+        <description>&lt;p&gt;Happy New Year! New Year&amp;#39;s may be my favorite holiday. More than just an excuse to party late into the night, New Year&amp;#39;s is a time to reflect back on the previous year&amp;#39;s accomplishments and highlights, but also an opportunity--literally &amp;quot;an open door&amp;quot;--to make plans for the future, starting with the year ahead. Many people I&amp;#39;ve met don&amp;#39;t place much stock in New Year&amp;#39;s resolutions, seeing it as just another arbitrary date, with no special significance other than marking off the passage of another year. I disagree.&lt;/p&gt;
+&lt;p&gt;It&amp;#39;s probably no coincidence that New Year&amp;#39;s occurs so close to Christmas, which is really a Christian cultural palimpsest of earlier pagan solstice rituals. The Winter Solstice, which usually occurs on or around the 20th of December marks the shortest day of the year in the northern hemisphere and also the official start of winter. This time of year had significance to the pre-Christian societies of northern Europe but also to the Romans, who named the month January after Janus, the god of doorways and new beginnings, change and time. The English word opportunity has Latin roots relating to the idea of an &amp;quot;open door.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Janus is always depicted as having two faces: one looking forward into the future and the other backward into the past. This imagery is fitting, as we look back on the year gone by and consider the change we&amp;#39;d like to see in the year ahead.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Twenty-fifteen saw many changes here at the reLuxe Ranch: on the farm in general and in Tasha&amp;#39;s and my life. We&amp;#39;ve tried to post in this blog the major events and changes that have occurred throughout the year, but sometimes we were just too busy to write it up. And we&amp;#39;ve both done a lot of writing this year. In the past year, we were both published--outside this blog anyway--for the first time.&lt;/p&gt;
+&lt;p&gt;Tasha became involved with writing for&amp;nbsp;&lt;a href=&quot;http://growyourowngroceries.org/&quot; target=&quot;_blank&quot;&gt;The Grow Network&lt;/a&gt;, a group affiliated with Marjory Wildcraft. She&amp;#39;s enjoyed sharing the practical experience she has gained here on the farm with others, through her writing on the site, and she&amp;#39;s received overwhelmingly positive feedback, judging from the reader comments posted with her articles. She looks forward to continuing writing for them in 2016. Tasha has also been able to draw on her experience with the local Master Gardener program which she became involved in during 2015.&lt;/p&gt;
+&lt;p&gt;An essay I submitted to&amp;nbsp;&lt;a href=&quot;http://dark-mountain.net/&quot; target=&quot;_blank&quot;&gt;The Dark Mountain Project&lt;/a&gt;&amp;nbsp;was accepted and published this year, in their theme issue on technology, Technê (Dark Mountain Volume 8). Being published in the same pages with the likes of Bill McKibben and David Graeber was an amazing experience, but more than that was the satisfaction of contributing to a community of like-minded writers and getting some of my own ideas out to a broader forum. In the month or so since my contributor&amp;#39;s copy came in the mail, I only just finished reading the issue cover to cover a few days ago. I&amp;#39;ve been completely blown away by the breadth and depth of thought, the variety of perspective and experience, presented in each and every piece of the collection. I&amp;#39;m humbled and proud to have been a part of it.&lt;/p&gt;
+&lt;p&gt;Apart from the opportunity for professional growth as writers that Tasha and I encountered in 2015, we each had many opportunities to improve our own skills at farming and homesteading while connecting with others in our community. Tasha upped her game considerably by going through the NC State Agricultural Extension Master Gardener program. In addition to being able to meet with and learn from other local farmers, growers, and gardeners, and to apply that knowledge directly to our farm, she got involved in contributing back to the local community. In the process, she met some pretty amazing &amp;nbsp;people like Ken and Sharon, who truly are master orchardists and gardeners.&lt;/p&gt;
+&lt;p&gt;I developed my building and carpentry skills considerably this year, and even did a little welding, starting with the three top-bar bee hives I built in winter and moving on to building a pig shelter, a wood fired earthen pizza oven, a 12-foot long behemoth of an outdoor dining table (and benches for it), a smokehouse (with plenty of help from my brother Jason), a set of Adirondack chairs and a table, and several other smaller projects. In enclosing the goat/pig pasture and the expanded vegetable garden, Tasha and I poured tons of concrete, set dozens of wood posts and ran hundreds of feet of fence, all before the growing season even started last year.&lt;/p&gt;
+&lt;p&gt;In expanding our vegetable garden by about 300% from 2014, Tasha moved tons and tons of manure, compost and mulch on her own onto rows of raised beds in the garden, in a successful bid to kickstart the rapid formation of topsoil. She divided each row of raised beds into numbered and lettered cells in order to better plan and track our vegetable production. Her tremendous amounts of work and effort paid off this year, with bumper harvests of salad greens, sweet potatoes, squashes, tomatoes, watermelons and many other vegetables. Even as I write this, we&amp;#39;re still harvesting root vegetables and some salad greens from the garden, and we have canned vegetables and sauces to last us well into 2016.&lt;/p&gt;
+&lt;p&gt;The past year also marked our entry into the world of raising and slaughtering animals for meat. This was a proposition we&amp;#39;d thought long and hard about, but which we&amp;#39;ve ultimately come to embrace. We raised 15 Peking ducks starting in the middle of the summer and slaughtered them in early October. It was my first experience slaughtering an animal and one I was initially very apprehensive about. But with the help of our more experienced neighbors Donnie and Anita, we were able to quickly, respectfully, and humanely slaughter and process 12 ducks in the space of a day.&lt;/p&gt;
+&lt;p&gt;About a month and a half later, we repeated the process on a much larger scale and with much more help from our friends, family and neighbors with our four pigs. Over the course of three days that culminated with a pig roast, we learned a lot and managed to get it done. In the end, we processed ~780 pounds of pork. An exceptional amount of preparation, organization and work went into our pig slaughter, and we were thrilled with the outcome.&lt;/p&gt;
+&lt;p&gt;Another novelty of 2015 included the first in a series of goat births. In March both Phoebe and Fancy, our original does, gave birth to litters of several kids each. We were a little disappointed this first time, that out of five kids, only one was a doe. But we sold most of the males as pets and kept La Bandida, our single doe. In October and November, Phoebe and Fancy gave birth again, this time to an even number of males and females, six in all. This brings our milking herd up to six, and we plan on keeping Moose, a buck, along with Popeye, our original breeding buck.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Another project, one I started in 2014, has started to come to fruition in the last couple months. The 50 or so shiitake logs I began inoculating with plug spawn have started to produce delicious mushrooms. After several failed attempts in Maryland, and with spawn that was slow to take off from the 2014 logs, I was pleasantly surprised to find the upside of the El Nino rains of recent months to be a series of unexpected shiitake fruitings.&lt;/p&gt;
+&lt;p&gt;And going all the way back to the start of 2015, Tasha had a dumpster brought to our property and single handedly cleaned up the trash that had been dumped in piles around various parts of the property by its former occupants. She filled an entire full-length dumpster over the course of a couple weeks last winter while I worked my day job.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;***&lt;/p&gt;
+&lt;p&gt;With all of this behind us to build on, 2016 looks to be a year of continuing advancement and refinement. With a lot of the one-time heavy duty infrastructure projects completed--like expanding the garden, fencing the garden and pasture, building out our outdoor living spaces--we can turn our attention to the more subtle tasks of starting fodder projects to offset the cost of feeding the animals,&amp;nbsp;pruning and maintaining our perennials, and creating amazing cheeses and yogurts from goat milk and charcuterie and other meat products from the ducks and pigs. With all of this work starting to pay off, we&amp;#39;re anticipating having a substantial surplus of vegetables in 2016 and trying to get the business end of our endeavor going.&lt;/p&gt;
+&lt;p&gt;Tasha has begun working to implement a business plan that has been evolving since we first started tossing around the idea of homesteading years ago. Not wanting to go the CSA (community supported agriculture) route, we are more comfortable with the idea of selling locally at the various farmers&amp;#39; markets and directly from the farm. Tasha wants to offer a CSA-style mixed basket of agricultural products every week, but without the upfront financial commitment of a subscriber base. Moreover, she wants to offer a more exotic selection of choice herbs and vegetables, hand selected and beautifully presented, a la French market style, along with more advanced and adventurous recipes, beyond the typical CSA practice of just passing out heads of kale, for example. Hence her concept of the Culinary Adventure Bag (CAB).&lt;/p&gt;
+&lt;p&gt;Tasha has also hit on the idea of hosting day-long duck slaughter and processing classes. Provided you have a pond, Peking ducks are as easy to raise as chickens and quickly produce wonderful, delicious, high-quality meat and fat that is worlds apart from the bland and less substantial meat of the chicken. There seems to be relatively little awareness of working with duck in our community, although people are open minded and tastes are evolving. With these projects and a couple more in the offing, we hope to explore the possibilities of creating some farm-based income while spreading awareness of sustainable food and agricultural practices, and an awareness of permaculture and whole-systems design implementation.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Throughout the course of 2014 and 2015, Tasha and I both planted many trees, fruit bushes, and perennial vegetable and fruit plants, in between our more defined major projects. In July of 2015 over the course of a weekend, I built a row of five endpost trellises for our vineyard. We will begin wire training the vines over the winter and expect 2016 to bring our first harvest and vintage. Many other perennial systems we&amp;#39;ve been working on since our arrival in March 2014 should begin to produce this year.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We got a little asparagus last year, but this year we should get a full production from the original bed of 24 plants along with a smaller contribution from the add-on bed I planted in 2015. Likewise, many of the fruit trees and berry bushes we planted in previous years should begin to produce in earnest this year. I&amp;#39;m particularly excited about the strawberries to which Tasha devoted several rows in the annual garden. Also in 2015 we built three hugelkulturs in various places on the property. Now that some of the woody material comprising them has begun to break down, no doubt accelerated by the heavy and frequent rains, we&amp;#39;re eager to begin trialing them with a variety of vegetables and berries.&lt;/p&gt;
+&lt;p&gt;Over the winter, one of my projects is to build a new website in support of this endeavor, on which we can post photos, produce updates, recipes, logistical information, and hopefully conduct some business. I&amp;#39;m also planning on updating this site, which from the get-go was limited by my free hosting arrangement in terms of what code and design themes I could implement and how many photos I could upload. Now that I pay for hosting, I have a free hand to do whatever. My focus for this project has always been as a forum for writing, not as a showcase of good web design principles and practices. Anyway, since that&amp;#39;s what I do professionally, I&amp;#39;ve always felt a little bit like the cobbler whose children go barefoot. I hope to overhaul this site with a new, mobile-responsive design theme and add more visual and multimedia assets where appropriate over the next year.&lt;/p&gt;
+&lt;p&gt;Of course, the original intent of this blog was as an outlet for Tasha&amp;#39;s and my writings. With the recent good fortune we both had to be published in other venues, I&amp;#39;d like to re-commit myself to a disciplined practice of writing, beginning with more frequent and varied posts in this space even as we look to reach a broader audience through other vehicles and projects.&lt;/p&gt;
+&lt;p&gt;In trying to wrap up what was originally intended to be a brief recap and look to the future, I&amp;#39;m realizing anew how much we actually did accomplish in 2015. We couldn&amp;#39;t have done most of it without the support of our friends, family and neighbors, and we want to extend our gratitude and appreciation for how lucky we both feel to be part of such an excellent and supportive community. Another major event of 2015 was the arrival of my parents, Tim and Sue, to the area. After a months-long search, they fell in love with a house in nearby Mount Airy and are now part of our wonderful community. Both Tasha and I are looking forward to spending more time with them in 2016.&lt;/p&gt;
+&lt;p&gt;Now it&amp;#39;s time to get to work on the buck pen we&amp;#39;ve been trying to build for the past couple weeks. Hopefully, I&amp;#39;ll also get started on a bouldering wall this weekend, so I can get back into shape for rock climbing this year, another driving passion of mine that brought us to this area that&amp;#39;s taken a backseat to our development projects here.&lt;/p&gt;
+&lt;p&gt;Tasha and I extend to all our best wishes for a happy, healthy and wonderful new year, and may it bring you a world of opportunities.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2015 00:00:00 +0000</pubDate>
+        <link>{{ site.github.url }}/blogs/essays/2015/12/26/a-world-of-opportunities.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blogs/essays/2015/12/26/a-world-of-opportunities.html</guid>
+        
+        <category>dark-mountain</category>
+        
+        <category>marjory-wildcraft</category>
+        
+        <category>mythology</category>
+        
+        <category>holidays</category>
+        
+        
+        <category>blogs</category>
+        
+        <category>essays</category>
+        
+      </item>
+    
+      <item>
+        <title>Merry Christmas - A Tale of Two Stories</title>
+        <description>&lt;p&gt;I was at the crosswalk waiting for my turn. He trudged toward me, carrying his life in a few large duffel bags, slung in crisscrossed patterns around his lean frame. His jacket hood was pulled taut so only his face risked exposure to the biting wind. He crossed on red, intent on getting somewhere, maybe to a shelter. I hoped.
+I didn’t realize how closely I scrutinized his progress until he said “Happy Holidays to you.” Startled, I immediately sing-songed, “thank you and to you too.” The light turned green and I crossed away from him. I wasn’t even on the other side of the road when the urge to cry came over me. I thought about running back to give him money, but I didn’t. I had no right to assume he needed my help. He hadn’t asked for anything. He’d just been polite. More than I had done.&lt;/p&gt;
+
+&lt;p&gt;With no outlet to redeem myself as a “decent human being” shame clung to me. I stood paralyzed until my skirt-exposed legs burned from the cold and the “Don’t Walk” light flashed. I collected myself and walked swiftly on, seeking the sanctuary of the metro tunnel to ease my discomfort. Out of the wind, my blood warmed my bare skin and brought back my sense of order. I was safe inside en route to a cozy evening in my over-amenitied house where Matt, my dad, and our menagerie of animals would all be, expressing varying degrees of excitement at my arrival.
+As I waited for my train, I muddled through the emotions that moved me near tears in response to “the Carrier” (as I dubbed him in my internal dialogue). I thought about how it would have given me temporary reprieve to hand him a $20 on Christmas Eve. Yet, it would not have quelled the turmoil raging inside. That small interaction stirred something more than fleeting compassion. It struck the dark recesses of my humanity, exposing the automaton occupying my body.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t his words, but his timing that had been my undoing. When he crossed toward me and I watched, not really seeing him, I had been congratulating myself on my do-gooder deed of helping an old man locate a church using my Iphone. I had also been thinking of the bottle of Genepy I remembered to pick up for Christmas dinner and was planning out how I would put Matt’s new coffee maker on the counter in the morning, like Santa. I felt so virtuous over my “self-less” acts that I hadn’t realized I was shamelessly staring at the Carrier without so much as nodding to acknowledge his existence as a fellow human being. With four words of holiday greeting, an act of kindness so profound given the terrible weight of his evident burdens, he delivered a knee-buckling blow to my illusions of virtue.&lt;/p&gt;
+
+&lt;p&gt;My “virtue” was cosmetic. Easily applied. It was the equivalent of recycling water bottles or donating out of fashion clothing to charity. We like to pretend these acts make us “good” but such small concessions can’t undo the harm of pillaging the earth for petroleum products and using children in poor countries to sew brand name labels on clothing that will be outdated in three months. They certainly didn’t help alleviate my guilt over ignoring the Carrier on Christmas Eve.
+Since that encounter, I’ve spent endless hours contemplating the importance of an interaction that lasted less than thirty seconds. It was like all that was insubstantial in me eroded, leaving crevices and crannies open to irritation. I have become an exposed tooth nerve or an unhealed wound.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It’s December 23rd, almost two years after I first wrote those words. Sometimes, I still think of him. The Carrier. It’s amazing how clear I can see him now, when he was almost invisible to me that night on the street. For a long while after that, I kept trying to nail down the exact significance of the experience and what obligation it created for me. It felt life-changing. I wrote so many endings to that essay, always trying to tie it up neatly into some heartfelt message for a potential reader. Maybe I thought I could cast myself in a better light if I showed that I learned my lesson somehow.&lt;/p&gt;
+
+&lt;p&gt;It was Matt who pointed out how artificial it seemed. He had listened patiently when I told him about the experience the night it happened. How it moved me. He also heard me go on and on about it for weeks afterwards. Matt knew as well as I did that I hadn’t figured anything out. I only knew that I felt naked to the bone and revealed as a fraud. But, it wasn’t the Carrier who judged me. I had done that all by myself.
+A couple years before I crossed paths with the Carrier, also near the holidays, I was taking the metro with my mom. We were walking together, and then suddenly, she hurried off leaving me in her wake. I hustled to catch up, just in time to watch her link arms with a strange man. It took me a moment to understand that the man was blind and my mom was helping him navigate the escalator. Mesmerized, I walked behind, watching and listening as the two of them joked like old friends. And I felt such awe at witnessing that moment.&lt;/p&gt;
+
+&lt;p&gt;Afterwards I asked my mom if she knew the man. She said no. I asked her how she knew he needed help. She said she didn’t know if he needed help. She then went on to express her amazement at people like him, with perceived handicaps, navigating the crowded, obstacle-ridden, metro stations that still terrified her. I realized as she talked that it was her admiration, not any sense of charity, that caused her to take the blind man’s arm.
+Today as I sat reflecting on the ghosts of Christmas past, those two experiences came forward and morphed into something entirely different. Like reproduction, they joined and gave birth to a new understanding. I don’t know how I didn’t see it before, but they were in fact the same experience, shown to me two different ways.
+Charity is a word we generally associate with monetary donations or gifts of time spent helping people in need. It’s what I first thought of when I saw my mom escort a blind man and what I thought I had lacked when I ignored a homeless man on Christmas Eve. The idea of it has come to imply an hierarchy – the wealthy give to the poor, the fortunate give to those less fortunate. But its etymology implies something very different – something more like unconditional love – not the stronger helping the weaker, but a shared human experience, valuable entirely of its own.&lt;/p&gt;
+
+&lt;p&gt;The night I met the Carrier, I was so caught up in doing all the things the affluent world has come to associate with Christmas, that I was a walking check list of holiday cheer instead of a real human being. Somehow, he broke through that and awakened the human in me. It was like a pipe that has been clogged. When it starts running again, all the bad stuff comes out first – so guilt and shame came gushing forth and I mistakenly thought that was the point.&lt;/p&gt;
+
+&lt;p&gt;I don’t know what it’s like to be blind or homeless. Most of my life, I’ve taken the coward’s route, blending in and acquiescing so I can belong, even when I know it’s wrong. And even though I aspire to it, I do not have my mother’s kindness or deep sympathy for other human beings. Frankly, I am probably too judgmental and self-centered to experience real charity in it’s etymological form. But despite my faults, I was a witness,with the ability to put into words those two poignant experiences that might have otherwise gone unnoticed.
+To the Carrier, the blind man, and my mother – I see you. Thank you for reminding me what it means to be human.   To Matt, thank you for seeing me and helping me to see myself. 
+Merry Christmas to everyone!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+        <link>{{ site.github.url }}/blogs/2015/12/24/merry-christmas-a-tale-of-two-stories.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blogs/2015/12/24/merry-christmas-a-tale-of-two-stories.html</guid>
+        
+        <category>family</category>
+        
+        <category>holidays</category>
+        
+        
+        <category>blogs</category>
+        
+      </item>
+    
+      <item>
+        <title>Hog Killin' at the reLuxe Ranch</title>
+        <description>&lt;p&gt;Just over a week ago, we had an old-time hog killin’ here at the reLuxe Ranch.  We have wanted to do this since we first read about it in Joel Salatin’s book Folks, This Ain’t Normal. But first we had to get a farm, then we had to raise some pigs.  Actually, though, none of it would have happened without our incredible community of friends and family willing to participate in and support us in this process.  That support began before we even bought the farm when we told our families and friends about our dreams and plans.  No one called us crazy, even if they were thinking it.  They shared our enthusiasm, challenged us to clarify our goals by asking great questions, helped us flesh out half-baked ideas, and most importantly, they whole-heartedly encouraged us to live our lives in line with our values.&lt;/p&gt;
+
+&lt;p&gt;Then when we arrived in North Carolina, exhausted from the move, desperate for a decent drink, we stepped into our neighborhood vineyard/brewery and were swept up in a whirlwind of great people.&lt;/p&gt;
+
+&lt;p&gt;They plied us with food, told us their tales of dreams made real, and much to their credit, did not laugh as two city slickers with not a lick of farming experience explained our plans.  Week after week, those bonds grew, new friends joined the group, and in the space of just a few months we recognized that we had become part of something much greater than the sum of its parts.  We had not just made friends, but we had found community.&lt;/p&gt;
+
+&lt;p&gt;Community is more than a group of people with something in common. It’s kind of this amorphous blob that mystically evolves to meet your needs.  As an example, just as we started getting into the nitty gritty details of planning our pig slaughter, Linda who is one of my gardening friends asked if she could bring her husband Vassie over for a tour of our farm. As I walked them around, talking about how we just built our smokehouse to get ready for our first experience at butchering pigs, Vassie revealed that he used to be a butcher and had quite a bit of experience with homescale hog killin’.  He had also recently told Linda that he had a hankering to do it again.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2015-11-23-hog-killin-at-the-reluxe-ranch/Group Shot.jpg&quot; title=&quot;Group Shot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vassie’s experience was exactly what we needed for our upcoming event and we were what he needed to get back into butchering.  But community doesn’t stop there.  The day of–when Joe and Ted, our two other experts who have been helping us all these months, met Vassie–the magic really started.  These strangers worked together with such perfect synchronicity that it was as if they had done this together a hundred times.  Any apprehension we had about dispatching our pigs disappeared as Matt and I realized we’d lucked into a  hog killin’ all-star team. Our other friends who came to help and learn also seemed to be exactly what we needed to make this a wonderful experience.  They turned out to be super scrapers, joke makers (when we need it most), and had intuitive abilities to know just when an extra hand was needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2015-11-23-hog-killin-at-the-reluxe-ranch/Getting Ready.jpg&quot; title=&quot;Getting Ready&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our event was the culmination of an eight-month process leading up to a three day weekend that included the slaughter, converting carcass parts into gourmet goodies, and a grand party to celebrate and share the bounty.  We’ll be writing several more postings about this in the coming weeks because there is too much material to cram into one sitting.  But Matt and I wanted to kick off our commentary by thanking you all for being part of our lives, sharing our dreams, and teaching us so much more than just how to kill a hog.
+And an extra big thank you to these folks who were able to come for some or all of our three-day Hog Killin’ extravaganza:&lt;/p&gt;
+
+&lt;p&gt;Joe &amp;amp; Michelle; Ted &amp;amp; Michele; Donnie, Anita, Emma, &amp;amp; Zoe; Vassie &amp;amp; Linda; Aaron, Jenny, Savannah, Alan, Katie, &amp;amp; Elizabeth; Mark &amp;amp; Terry; Ken, Sharon, &amp;amp; Joel; Brian, Lindsay, Joseph, Thomas, Terrie, Rachel, &amp;amp; Collette; Ed &amp;amp; Myriam; Mary; Morten &amp;amp; Debi; Mike (a.k.a. Dad), Tim, Sue, David, Irina, Kate, Patti, and Jason.&lt;/p&gt;
+
+&lt;p&gt;We also want to give a special shout out to Jason (Matt’s brother) who basically forced us to get pigs when we weren’t sure we were ready.  Driven by guilt, Jason spent many weekends trekking six hours by car to sleep on a rickety twin bed so that he could help feed pigs, build a smokehouse, weld our scalding vessel, and generally go home more exhausted than when he arrived. He has also given us all sorts of tools and guidance on our other projects along the way.  Jason - we officially let you off the hook.  It was a great experience.  If anything had gone wrong, we were going to blame it on you.  So in fairness, we figured we ought to at least share the credit for a job well done! We couldn’t (wouldn’t) have done it without you! Thanks also to Bridget for giving Jason some breathing room on your honey-do list - but now that the hams are hanging - Jason can get to work on your kitchen!.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+        <link>{{ site.github.url }}/blogs/2015/11/23/hog-killin-at-the-reluxe-ranch.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blogs/2015/11/23/hog-killin-at-the-reluxe-ranch.html</guid>
+        
+        <category>pigs</category>
+        
+        <category>butchering</category>
+        
+        <category>ethical</category>
+        
+        <category>artisanal</category>
+        
+        <category>meat</category>
+        
+        <category>animal-husbandry</category>
+        
+        <category>pasture-raised</category>
+        
+        
+        <category>blogs</category>
+        
+      </item>
+    
+  </channel>
+</rss>

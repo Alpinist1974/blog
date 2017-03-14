@@ -3,10 +3,10 @@
   <channel>
     <title>The Way Back</title>
     <description></description>
-    <link>{{ site.github.url }}/</link>
-    <atom:link href="{{ site.github.url }}/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Mar 2017 01:32:39 +0000</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2017 01:32:39 +0000</lastBuildDate>
+    <link>{{ site.github.url }}/blog/</link>
+    <atom:link href="{{ site.github.url }}/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 Mar 2017 02:19:34 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2017 02:19:34 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;Welcome back to The Way Back! It’s been a while since Tasha or I have updated the site. Part of the reason for this is because we have been in the process of migrating the site since the end of last summer, an admittedly drudgerous task, owing to the many photos and pages of text that required moving and reformatting.&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Mar 2017 08:09:59 +0000</pubDate>
-        <link>{{ site.github.url }}/blogs/2017/03/13/welcome-to-the-new-way-back.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/blogs/2017/03/13/welcome-to-the-new-way-back.html</guid>
+        <link>{{ site.github.url }}/blog/blogs/2017/03/13/welcome-to-the-new-way-back.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/blogs/2017/03/13/welcome-to-the-new-way-back.html</guid>
         
         <category>simplicity</category>
         
@@ -113,8 +113,8 @@
 &lt;p&gt;Now you can see for yourselves why Matt deserves an ode on his birthday.   But, as amazing as all this stuff is, the real reason he gets an ode is for all the stuff that’s not stuff. The way he cares for me, his constant support, being my rock when my dad had a stroke, letting me unload on him when the world is too much, and a million other kindness. Thank you Matt for everything! I love you. Happy birthday.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Oct 2016 08:09:59 +0000</pubDate>
-        <link>{{ site.github.url }}/blogs/2016/10/26/ode-to-matt.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/blogs/2016/10/26/ode-to-matt.html</guid>
+        <link>{{ site.github.url }}/blog/blogs/2016/10/26/ode-to-matt.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/blogs/2016/10/26/ode-to-matt.html</guid>
         
         <category>projects</category>
         
@@ -155,8 +155,8 @@ There are things we can change and things we can’t.  The past for example, tha
 &lt;p&gt;(And to Matt - You are too good to be true, and yet you prove with your actions and constant support that you are.  This is a paradox I may never unravel and yet am infinitely grateful for.)&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
-        <link>{{ site.github.url }}/blogs/essays/2016/07/27/care-and-feeding.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/blogs/essays/2016/07/27/care-and-feeding.html</guid>
+        <link>{{ site.github.url }}/blog/blogs/essays/2016/07/27/care-and-feeding.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/blogs/essays/2016/07/27/care-and-feeding.html</guid>
         
         <category>healthcare</category>
         
@@ -172,70 +172,70 @@ There are things we can change and things we can’t.  The past for example, tha
         <description>&lt;p&gt;Woo-hoo, time for another reLuxe (mega) Roundup! What makes this one a mega roundup, you might ask? Well, this one’s got lots of pictures (below the fold). Back when I started this blog, we were limited in how much we could store on the server. Now there’re no limits, and a picture’s worth a thousand words, so here we go.
 It’s been a while since Tasha or I wrote one of these, and there have been quite a few changes in the intervening seven months here at the Ranch. After a relatively painless and short winter, here we are, having come out the other side, to an early spring. With temperatures reaching into the 70s for the past couple weeks and Daylight Savings Time once again in effect, it’s been easy for both of us to get outside and get things done.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Woodford.jpg&quot; title=&quot;Woodford the Turkey&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Woodford.jpg&quot; title=&quot;Woodford the Turkey&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Of the 10 or so turkeys we have been raising since last summer, three remain. We haven’t slaughtered a single one—the others either didn’t make it to adulthood or died by misadventure (wandering off the farm and being chased by neighborhood dogs, we suspect). After losing our last two Slate Grays last month, Woodford—our Bourbon Red, and Ferdinand and Isabella—our two Spanish Blacks, have all essentially become pets.
 They follow us around whenever we work outside and are much more curious and intrepid than our chickens and ducks. They’ve become the peacocks that Tasha always wanted, and they don’t do nearly as much damage due to scratching as chickens. All in all, they tend to forage pretty well, eat a lot of pests we don’t want around anyway, and don’t require much care, so they get to stay.&lt;/p&gt;
 
 &lt;p&gt;Our ducklings, however, hatched last month in an incubator from eggs our permanent Pekins laid, won’t be so lucky. By the end of spring, they’ll be slaughtered for meat, although they’ll enjoy an idyllic and stress-free life here in the meantime. They’ll be free to roam once they’re big enough to leave the greenhouse that they share with Maggie, the single chicken that hatched a few days before the ducks. Maggie—we think it’s a female—will join the other layers in the coop once she’s large enough.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Ducklings.jpg&quot; title=&quot;Ducklings&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Ducklings.jpg&quot; title=&quot;Ducklings&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Her mother was obviously one of our Barred-Rocks, and her father’s identity could only be Roscoe, the rooster who just showed up one day over the winter and decided to move in with our hens. They seem to like him well enough, though we eventually found out he belongs to a neighbor who rescued him but didn’t have a place to keep him. Well, problem solved. We’ve sort of gotten used to him starting to crow at 4:00 AM, from the chicken coop, which is directly behind our bedroom.&lt;/p&gt;
 
 &lt;p&gt;Over the winter we also spent a few weeks smoking the country hams which were hanging in the shop to dry out for a few months prior. At the end of February, we spent about a week using peach, hickory, and red oak to smoke the hams of various sizes. The largest ones, probably in the 40-to-50 pound range, will take another year to cure before they’re ready to eat, although the smaller ones should probably be ready this year. The two prosciuttos packed in salt and curing in bee boxes will soon join the hams in the smokehouse to finish out the aging process.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Hams.jpg&quot; title=&quot;Hams in the smokehouse&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Hams.jpg&quot; title=&quot;Hams in the smokehouse&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Tasha has been busy with early spring starts like potatoes and transplanting cabbages from the greenhouse to the main garden. She’s also been planting another round of grape vines, fruit trees, shrubs, and perennials all around the property. The strawberries she planted last year are really taking off.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Cabbage Starts.jpg&quot; title=&quot;Cabbage Starts&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Cabbage Starts.jpg&quot; title=&quot;Cabbage Starts&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Strawberries.jpg&quot; title=&quot;Strawberries&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Strawberries.jpg&quot; title=&quot;Strawberries&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The perennials planted last year and the year before seem to have mostly made it, and at the very least established their roots. Everything takes a little longer here, since there was essentially no topsoil on most of the property when we bought it. Some of our first intensively planted “food forest” groves—the areas adjacent to the outdoor dining area–are starting to take hold, in particular, the elderberry bushes, comfrey, yarrow, and goji berries.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Perennials.jpg&quot; title=&quot;Perennials&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Perennials.jpg&quot; title=&quot;Perennials&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In late March, we harvested our first crop of asparagus from our most recent (year-old) asparagus bed. Today shoots from the second-year bed, which I dug a little deeper, started to poke through the ground.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Asparagus.jpg&quot; title=&quot;Asparagus&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Asparagus.jpg&quot; title=&quot;Asparagus&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;With the return of mild temperatures and rain, our wide-ranging Shiitake strains have started fruiting again, as have, for the first time so far, the Wine Cap (King Stropharia) mushrooms Tasha inoculated last year in the mulch beneath our peach trees.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Shiitakes.jpg&quot; title=&quot;Shiitakes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Shiitakes.jpg&quot; title=&quot;Shiitakes&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The four excellent strains of Shiitake I purchased from Field and Forest last spring seem to have successfully colonized most of the inoculated logs. I’ve been soaking some of them in the bathtub we bought for use at last year’s pig slaughter to induce them to fruit and stacking them in tee-pee patterns around the trees in our mushroom grotto, the shaded area between the buck pen and the dining area.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Mushroom Logs.jpg&quot; title=&quot;Mushroom Logs&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Mushroom Logs.jpg&quot; title=&quot;Mushroom Logs&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We built a buck pen for the male goats over the winter. Tasha built the shelter out of reclaimed shipping pallets and some new lumber and even outfitted it with a rainwater collection system and an automatic watering system. We sunk posts and ran fence around the shady area above the duck pond, which hosts some goat forage and provides a comfortable amount of space, but at a distance from the does.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Buck Pen.jpg&quot; title=&quot;Buck Pen&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Buck Pen.jpg&quot; title=&quot;Buck Pen&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We built the separate pen so we can control the does’ pregnancies and milking cycles—we’re up to seven does now—and which goats breed with which. We’re still in the process of finding homes for our two wethers, but Popeye and Moose will remain. Tasha’s getting really good at making cheese.The blue cheeses she made recently with flora Danica smell just like the real deal (we’ll get to taste soon), and she’s been making some amazing fresh cheeses for a while now, having recently added haloumi to the list.&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;img src=/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Does.jpg” title=”Does”&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Does.jpg” title=”Does”&amp;gt;&lt;/p&gt;
 
 &lt;p&gt;In my own spare time, I’ve been mostly occupying myself with maintenance projects. The semi-transparent pergola which followed us from Maryland and ended up on our terrace here has finally met its end. Last weekend, I spent a day or so rebuilding it with more durable and permanent materials, namely corrugated steel roofing and new pressure-treated framing.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Outdoor Dining Area.jpg&quot; title=&quot;Outdoor Dining Area&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Outdoor Dining Area.jpg&quot; title=&quot;Outdoor Dining Area&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Both the pergola and the roof over the pizza oven were starting get a little weathered looking, so I stained them red, which certainly brightened things up a bit. To the table I built last year, I added another few coats of spar varnish, and Tasha weeded and cleaned the patio beneath it, so we’re ready for another season of outdoor living.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Table.jpg&quot; title=&quot;Table&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Table.jpg&quot; title=&quot;Table&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Besides working on the outside dining area, we’ve done a lot of work around the greenhouse and the high pond in front of it. Tasha did some more work on the semi-floating garden in the pond and mulched the paths around it. I put in a couple sets of stairs I cut from railroad ties, at either end of the greenhouse. This not only makes it easier to get to and from the greenhouse, but adds more visual appeal to the area around the pond, where we’ve placed the Adirondack furniture I built at the end of last summer from a load of reclaimed pallet lumber.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Greenhouse Stairs.jpg&quot; title=&quot;Greenhouse Stairs&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Greenhouse Stairs.jpg&quot; title=&quot;Greenhouse Stairs&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And this is where we aspire to end up after the work’s done, at the end of a string of increasingly gorgeous days, relaxing by the pond and looking up at the stars. Till next time…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Adirondack Furniture.jpg&quot; title=&quot;Adirondack Furniture&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-04-02-reluxe-mega-roundup-april-3-2016/Adirondack Furniture.jpg&quot; title=&quot;Adirondack Furniture&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
-        <link>{{ site.github.url }}/reluxe-roundups/2016/04/02/reluxe-mega-roundup-april-3-2016.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/reluxe-roundups/2016/04/02/reluxe-mega-roundup-april-3-2016.html</guid>
+        <link>{{ site.github.url }}/blog/reluxe-roundups/2016/04/02/reluxe-mega-roundup-april-3-2016.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/reluxe-roundups/2016/04/02/reluxe-mega-roundup-april-3-2016.html</guid>
         
         <category>homesteading</category>
         
@@ -277,8 +277,8 @@ They follow us around whenever we work outside and are much more curious and int
 &lt;p&gt;To whatever extent the Office of the Presidency still reflects the will in good faith of a commander-in-chief, subordinate to no one but the American people, I hope for the sake of the American people that the next person to hold that office is Bernie Sanders.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
-        <link>{{ site.github.url }}/essays/2016/03/20/shine-perishing-republic.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/essays/2016/03/20/shine-perishing-republic.html</guid>
+        <link>{{ site.github.url }}/blog/essays/2016/03/20/shine-perishing-republic.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/essays/2016/03/20/shine-perishing-republic.html</guid>
         
         <category>robinson-jeffers</category>
         
@@ -301,23 +301,23 @@ They follow us around whenever we work outside and are much more curious and int
 
 &lt;p&gt;Back in December, we picked up two Berkshire piglets – a male and a female – for breeding. We are co-raising them with our wonderful neighbors, the Collins (Donnie, Anita, and their daughters Emma and Zoe). When we discovered that the pigs were too terrified of us to wire train them in our pig shelter, we put them in our goat house. The plan was for me to socialize them for a week or two to give the Collins a chance to build their pig shelter and run an electric fence. Then we would move the pigs to their official home and wire train them there.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Aja+Tessie.JPG&quot; title=&quot;Aja and Tessie&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Aja+Tessie.JPG&quot; title=&quot;Aja and Tessie&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Following a little building snafu and a run of bad weather, it's now almost two months later. And the pigs have become very comfortable in the goat barn. Actually, &lt;em&gt;comfortable&lt;/em&gt; is an understatement…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Popeye+Aja.JPG&quot; title=&quot;Popeye and Aja&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Popeye+Aja.JPG&quot; title=&quot;Popeye and Aja&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Aja, the female pig, has been enjoying quite the romantic affair with our goat buck Popeye. The two have been exchanging belly rubs, sharing meals and drinks, and taking long walks in the pasture together. Popeye was also caught giving Aja a piggy-back ride. (I swear this is all true).&lt;/p&gt;
 
 &lt;p&gt;Meanwhile, Tesla (Aja's intended pig-partner) has displayed his dismay in fits of rage ranging from dumping the goats' water buckets to woefully and incessantly bemoaning Aja's lack of attention. Our three sweet October-born does-in-training, Georgette, Claudine (the little coquette pictured below), and Sofia, have tried cajoling Tesla out of his depression by nibbling on his ears and tail. But alas, the broken-hearted boar-to-be refuses to be consoled.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Kids.JPG&quot; title=&quot;Kids in the Goat Pen&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Kids.JPG&quot; title=&quot;Kids in the Goat Pen&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In a last ditch effort to stifle the ill-fated affair between Popeye and Aja, and re-kindle the romance between Aja and Tesla, we finally finished our long-awaited goat buck pen today. (A huge thanks to Donnie and Anita for &quot;happening by&quot; just in time to help us roll out 330 pounds of wire mesh fencing yesterday).&lt;/p&gt;
 
 &lt;p&gt;We moved all five of our goat boys in at once. There was tremendous whining from our three young wethers (who are also being weaned from milk in the move).  If you know anyone who needs a wether, send them our way.  These little guys are ready to be family pets for anyone who wants more adorable in their lives.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Moose.JPG&quot; title=&quot;Moose&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Moose.JPG&quot; title=&quot;Moose&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And Moose, Popeye's son and fellow buck, was the most insistent about staying with the does. Through sheer determination and extraordinary effort, I managed to wrangle him and coerce him to the new pen. I guess Matt's right after all, I really am more stubborn than a goat.&lt;/p&gt;
 
@@ -327,27 +327,27 @@ They follow us around whenever we work outside and are much more curious and int
 
 &lt;p&gt;1) A rain-collecting, gravity-fed, automatic water trough.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Water System.JPG&quot; title=&quot;Water System&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Water System.JPG&quot; title=&quot;Water System&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2) A built-in food pantry, a.k.a. metal drum with blocks at base and bar at top to keep goats from tipping it over.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Water System 2.JPG&quot; title=&quot;Water System 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Water System 2.JPG&quot; title=&quot;Water System 2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;3) A “second story”  storage loft. Note the four straw bales just under the roof at the back of the goat shelter, this shelf is just high enough that the goats can't reach the straw, but I can still toss the bales up there without needing Matt's help.  Also, the bales provide some extra insulation for cold winter nights.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Buck Pen.JPG&quot; title=&quot;Buck Pen&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Buck Pen.JPG&quot; title=&quot;Buck Pen&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Really though, we fully expect that our philandering, seed-sowing, face-peeing, paragon of goat masculinity will eventually put up more of a fight once he realizes his new bachelor pad comes with an electrified fence and a shortage of females (of both the goat and pig persuasion).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Popeye 2.JPG&quot; title=&quot;More Popeye&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-02-01-romantic-rendezvous-at-the-reluxe-ranch/Popeye 2.JPG&quot; title=&quot;More Popeye&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sorry Popeye, but your days of indiscretion are over. Discreet, supervised dates are all you have to look forward to. Well that…and greener pastures.&lt;/p&gt;
 
 &lt;p&gt;Perhaps now that this project is done,  Matt and I can finally take our long-awaited romantic trip to Asheville.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-        <link>{{ site.github.url }}/blogs/2016/02/01/romantic-rendezvous-at-the-reluxe-ranch.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/blogs/2016/02/01/romantic-rendezvous-at-the-reluxe-ranch.html</guid>
+        <link>{{ site.github.url }}/blog/blogs/2016/02/01/romantic-rendezvous-at-the-reluxe-ranch.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/blogs/2016/02/01/romantic-rendezvous-at-the-reluxe-ranch.html</guid>
         
         <category>pigs</category>
         
@@ -362,7 +362,7 @@ They follow us around whenever we work outside and are much more curious and int
     
       <item>
         <title>Man on Wire</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/2016-01-15-man-on-wire/Man on Wire.jpg&quot; title=&quot;Does&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2016-01-15-man-on-wire/Man on Wire.jpg&quot; title=&quot;Does&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&amp;copy;2008 Jean-Louis Blondeau / Polaris Im&lt;/strong&gt;&lt;strong&gt;ages.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tonight Tasha and I watched James Marsh&amp;#39;s excellent and inspiring documentary&amp;nbsp;&lt;em&gt;Man on Wire&lt;/em&gt;. The film is about Philippe Petit, the Frenchman who walked on a wire strung between the two towers of the World Trade Center in August of 1974. Before watching the film, I was somewhat familiar with this event that took place several months before I was born, for which Petit is still famous, but I had no idea of the extent to which Petit had gone in planning what was dismissed by many as a crazy stunt.&lt;/p&gt;
@@ -376,8 +376,8 @@ They follow us around whenever we work outside and are much more curious and int
 &lt;p&gt;In fact, it&amp;#39;s hard for me to imagine why so many people choose to live a life constrained by debt, career, and conventional social obligations that numb the senses and the soul and offer so little in return. Why is it that Phillipe Petit&amp;#39;s quest would appear to many as utter madness, when the real insanity is an utterly conventional and superficial life of financial ambition, aspired to by so many, the highlights of which are a nice car, a corner office and the promise of a retirement spent on a golf course. The world is a much more vital, joyous, and interesting place thanks to the likes of Philippe Petit, the &lt;a href=&quot;http://snowbrains.com/video-proof-that-the-french-are-crazy/&quot;&gt;Fabulous Flying Frenchies&lt;/a&gt;, Alex Honnold, and all the unknown others out there, doing it because they love it, and because they have to...&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-        <link>{{ site.github.url }}/reviews/2016/01/15/man-on-wire.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/reviews/2016/01/15/man-on-wire.html</guid>
+        <link>{{ site.github.url }}/blog/reviews/2016/01/15/man-on-wire.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/reviews/2016/01/15/man-on-wire.html</guid>
         
         <category>phillipe-petit</category>
         
@@ -421,8 +421,8 @@ They follow us around whenever we work outside and are much more curious and int
 &lt;p&gt;Tasha and I extend to all our best wishes for a happy, healthy and wonderful new year, and may it bring you a world of opportunities.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Dec 2015 00:00:00 +0000</pubDate>
-        <link>{{ site.github.url }}/blogs/essays/2015/12/26/a-world-of-opportunities.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/blogs/essays/2015/12/26/a-world-of-opportunities.html</guid>
+        <link>{{ site.github.url }}/blog/blogs/essays/2015/12/26/a-world-of-opportunities.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/blogs/essays/2015/12/26/a-world-of-opportunities.html</guid>
         
         <category>dark-mountain</category>
         
@@ -470,8 +470,8 @@ To the Carrier, the blind man, and my mother – I see you. Thank you for remind
 Merry Christmas to everyone!&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
-        <link>{{ site.github.url }}/blogs/2015/12/24/merry-christmas-a-tale-of-two-stories.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/blogs/2015/12/24/merry-christmas-a-tale-of-two-stories.html</guid>
+        <link>{{ site.github.url }}/blog/blogs/2015/12/24/merry-christmas-a-tale-of-two-stories.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/blogs/2015/12/24/merry-christmas-a-tale-of-two-stories.html</guid>
         
         <category>family</category>
         
@@ -492,11 +492,11 @@ Merry Christmas to everyone!&lt;/p&gt;
 
 &lt;p&gt;Community is more than a group of people with something in common. It’s kind of this amorphous blob that mystically evolves to meet your needs.  As an example, just as we started getting into the nitty gritty details of planning our pig slaughter, Linda who is one of my gardening friends asked if she could bring her husband Vassie over for a tour of our farm. As I walked them around, talking about how we just built our smokehouse to get ready for our first experience at butchering pigs, Vassie revealed that he used to be a butcher and had quite a bit of experience with homescale hog killin’.  He had also recently told Linda that he had a hankering to do it again.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2015-11-23-hog-killin-at-the-reluxe-ranch/Group Shot.jpg&quot; title=&quot;Group Shot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2015-11-23-hog-killin-at-the-reluxe-ranch/Group Shot.jpg&quot; title=&quot;Group Shot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vassie’s experience was exactly what we needed for our upcoming event and we were what he needed to get back into butchering.  But community doesn’t stop there.  The day of–when Joe and Ted, our two other experts who have been helping us all these months, met Vassie–the magic really started.  These strangers worked together with such perfect synchronicity that it was as if they had done this together a hundred times.  Any apprehension we had about dispatching our pigs disappeared as Matt and I realized we’d lucked into a  hog killin’ all-star team. Our other friends who came to help and learn also seemed to be exactly what we needed to make this a wonderful experience.  They turned out to be super scrapers, joke makers (when we need it most), and had intuitive abilities to know just when an extra hand was needed.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2015-11-23-hog-killin-at-the-reluxe-ranch/Getting Ready.jpg&quot; title=&quot;Getting Ready&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/2015-11-23-hog-killin-at-the-reluxe-ranch/Getting Ready.jpg&quot; title=&quot;Getting Ready&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our event was the culmination of an eight-month process leading up to a three day weekend that included the slaughter, converting carcass parts into gourmet goodies, and a grand party to celebrate and share the bounty.  We’ll be writing several more postings about this in the coming weeks because there is too much material to cram into one sitting.  But Matt and I wanted to kick off our commentary by thanking you all for being part of our lives, sharing our dreams, and teaching us so much more than just how to kill a hog.
 And an extra big thank you to these folks who were able to come for some or all of our three-day Hog Killin’ extravaganza:&lt;/p&gt;
@@ -506,8 +506,8 @@ And an extra big thank you to these folks who were able to come for some or all 
 &lt;p&gt;We also want to give a special shout out to Jason (Matt’s brother) who basically forced us to get pigs when we weren’t sure we were ready.  Driven by guilt, Jason spent many weekends trekking six hours by car to sleep on a rickety twin bed so that he could help feed pigs, build a smokehouse, weld our scalding vessel, and generally go home more exhausted than when he arrived. He has also given us all sorts of tools and guidance on our other projects along the way.  Jason - we officially let you off the hook.  It was a great experience.  If anything had gone wrong, we were going to blame it on you.  So in fairness, we figured we ought to at least share the credit for a job well done! We couldn’t (wouldn’t) have done it without you! Thanks also to Bridget for giving Jason some breathing room on your honey-do list - but now that the hams are hanging - Jason can get to work on your kitchen!.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
-        <link>{{ site.github.url }}/blogs/2015/11/23/hog-killin-at-the-reluxe-ranch.html</link>
-        <guid isPermaLink="true">{{ site.github.url }}/blogs/2015/11/23/hog-killin-at-the-reluxe-ranch.html</guid>
+        <link>{{ site.github.url }}/blog/blogs/2015/11/23/hog-killin-at-the-reluxe-ranch.html</link>
+        <guid isPermaLink="true">{{ site.github.url }}/blog/blogs/2015/11/23/hog-killin-at-the-reluxe-ranch.html</guid>
         
         <category>pigs</category>
         

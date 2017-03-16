@@ -5,15 +5,15 @@
     <description></description>
     <link>http://the-way-back.com/</link>
     <atom:link href="http://the-way-back.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Mar 2017 02:27:22 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Mar 2017 02:27:22 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Mar 2017 09:44:09 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 09:44:09 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Welcome to Our New(ly Updated) Blog</title>
         <description>&lt;p&gt;Welcome back to &lt;strong&gt;The Way Back&lt;/strong&gt;! It’s been a while since Tasha or I have updated the site. Part of the reason for this is because we have been in the process of migrating the site since the end of last summer, an admittedly drudgerous task, owing to the many photos and pages of text that required moving and reformatting…&lt;/p&gt;
 
-&lt;p&gt;But now it’s done, and I’m really going to try to post more…Really! One of the great things about this new site is that it’s quite a bit simpler than the previous one, a Drupal 7 site that was, quite frankly, overkill for the purposes of blogging. This is a Jekyll site that gets free hosting on Github, which amounts to a savings of about $300 a year in hosting fees. Cutting out our non-essential costs is a big deal for Tasha and me, and one of our major resolutions for this year.&lt;/p&gt;
+&lt;p&gt;But now it’s done, and I’m really going to try to post more…really! One of the great things about this new site is that it’s quite a bit simpler than the previous one, a Drupal 7 site that was, quite frankly, overkill for the purposes of blogging. This is a Jekyll site that gets free hosting on Github, which amounts to a savings of about $300 a year in hosting fees. Cutting out our non-essential costs is a big deal for Tasha and me, and one of our major resolutions for this year.&lt;/p&gt;
 
 &lt;p&gt;Some of the major improvements include:&lt;/p&gt;
 
@@ -37,6 +37,32 @@
         <pubDate>Wed, 15 Mar 2017 08:09:59 +0000</pubDate>
         <link>http://the-way-back.com/blogs/2017/03/15/welcome-to-the-new-way-back.html</link>
         <guid isPermaLink="true">http://the-way-back.com/blogs/2017/03/15/welcome-to-the-new-way-back.html</guid>
+        
+        <category>The</category>
+        
+        <category>Dark</category>
+        
+        <category>Mountain</category>
+        
+        <category>Project,</category>
+        
+        <category>Low</category>
+        
+        <category>Tech</category>
+        
+        <category>Institute,</category>
+        
+        <category>Mother</category>
+        
+        <category>Earth</category>
+        
+        <category>News,</category>
+        
+        <category>The</category>
+        
+        <category>Grow</category>
+        
+        <category>Network</category>
         
         
         <category>blogs</category>

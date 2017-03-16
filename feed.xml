@@ -5,8 +5,8 @@
     <description></description>
     <link>http://the-way-back.com/</link>
     <atom:link href="http://the-way-back.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Mar 2017 09:45:51 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Mar 2017 09:45:51 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Mar 2017 09:47:57 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 09:47:57 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -38,11 +38,11 @@
         <link>http://the-way-back.com/blogs/2017/03/15/welcome-to-the-new-way-back.html</link>
         <guid isPermaLink="true">http://the-way-back.com/blogs/2017/03/15/welcome-to-the-new-way-back.html</guid>
         
-        <category>the-dark-mountain-project,</category>
+        <category>the-dark-mountain-project</category>
         
-        <category>the-low-tech-institute,</category>
+        <category>the-low-tech-institute</category>
         
-        <category>mother-earth-news,</category>
+        <category>mother-earth-news</category>
         
         <category>the-grow-network</category>
         

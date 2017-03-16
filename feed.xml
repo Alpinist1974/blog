@@ -5,21 +5,29 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Mar 2017 23:47:39 +0000</pubDate>
-    <lastBuildDate>Wed, 15 Mar 2017 23:47:39 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Mar 2017 00:34:39 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 00:34:39 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Welcome to Our New(ly Updated) Blog</title>
-        <description>&lt;p&gt;Welcome back to The Way Back! It’s been a while since Tasha or I have updated the site. Part of the reason for this is because we have been in the process of migrating the site since the end of last summer, an admittedly drudgerous task, owing to the many photos and pages of text that required moving and reformatting.&lt;/p&gt;
+        <description>&lt;p&gt;Welcome back to &lt;strong&gt;The Way Back&lt;/strong&gt;! It’s been a while since Tasha or I have updated the site. Part of the reason for this is because we have been in the process of migrating the site since the end of last summer, an admittedly drudgerous task, owing to the many photos and pages of text that required moving and reformatting…&lt;/p&gt;
+
+&lt;p&gt;But now it’s done, and I’m really going to try to post more…Really! One of the great things about this new site is that it’s quite a bit simpler than the previous one, a Drupal 7 site that was, quite frankly, overkill for the purposes of blogging. This is a Jekyll site that gets free hosting on Github, which amounts to a savings of about $300 a year in hosting fees. Cutting out our non-essential costs is a big deal for Tasha and me, and one of our major resolutions for this year.&lt;/p&gt;
+
+&lt;p&gt;We’ll probably add a few separate areas to the site - maybe a photo gallery or something, perhaps a comments section - but we really want the focus of this site to be on our writing. Since we started blogging a few years ago, both Tasha and I have been writing quite a lot. Tasha has worked with &lt;em&gt;Mother Earth News&lt;/em&gt; and The Grow Network and &lt;em&gt;Grit&lt;/em&gt; magazine to share some of her practical knowledge of animal husbandry and horticulture, which has been rapidly evolving since we started here, just about three years ago now.&lt;/p&gt;
+
+&lt;p&gt;I have been busy with my job and working on the farm, and when I have the free time, with writing in the form that I enjoy most, which is typciall on more abstract themes. Over the past few years, I’ve been fortunate to have my work published on several occasions with The Dark Mountain Project. I’m excited that my most recent piece, “Indicator Species,” will publish in their next issue, out in April 2017.&lt;/p&gt;
+
+&lt;p&gt;I have also done a couple more practically minded pieces for the &lt;a href=&quot;http://https://lowtechinstitute.org/2017/03/09/diy-project-making-a-broadfork-from-contributor-matt-miles/&quot;&gt;Low Technology Institute&lt;/a&gt; on building and using a broadfork, a tool I built for Tasha as a project utilizing my newly-acquired metalworking skills (I’ve been taking a welding class at the local community college).&lt;/p&gt;
+
+&lt;p&gt;The Low Tech Institute is dedicated to providing good information on all kinds of appropriate technologies and their practical implementation. With an academic slant and a new post daily, along with a lecture and podcast series, they are providing high-quality practical information on the rudimentary technologies necessary to support a civilization, the availability of which is often taken for granted in an increasingly fragile, disconnected, and technologically dependent society. You should go check them out - &lt;a href=&quot;https://lowtechinstitute.org/&quot;&gt;Low Technology Institute.  &lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
 </description>
-        <pubDate>Mon, 13 Mar 2017 08:09:59 +0000</pubDate>
-        <link>/blogs/2017/03/13/welcome-to-the-new-way-back.html</link>
-        <guid isPermaLink="true">/blogs/2017/03/13/welcome-to-the-new-way-back.html</guid>
-        
-        <category>simplicity</category>
-        
-        <category>complexity</category>
+        <pubDate>Wed, 15 Mar 2017 08:09:59 +0000</pubDate>
+        <link>/blogs/2017/03/15/welcome-to-the-new-way-back.html</link>
+        <guid isPermaLink="true">/blogs/2017/03/15/welcome-to-the-new-way-back.html</guid>
         
         
         <category>blogs</category>

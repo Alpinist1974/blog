@@ -5,8 +5,8 @@
     <description></description>
     <link>http://the-way-back.com/</link>
     <atom:link href="http://the-way-back.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Mar 2017 02:14:42 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Mar 2017 02:14:42 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Mar 2017 02:27:22 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 02:27:22 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,6 +14,15 @@
         <description>&lt;p&gt;Welcome back to &lt;strong&gt;The Way Back&lt;/strong&gt;! It’s been a while since Tasha or I have updated the site. Part of the reason for this is because we have been in the process of migrating the site since the end of last summer, an admittedly drudgerous task, owing to the many photos and pages of text that required moving and reformatting…&lt;/p&gt;
 
 &lt;p&gt;But now it’s done, and I’m really going to try to post more…Really! One of the great things about this new site is that it’s quite a bit simpler than the previous one, a Drupal 7 site that was, quite frankly, overkill for the purposes of blogging. This is a Jekyll site that gets free hosting on Github, which amounts to a savings of about $300 a year in hosting fees. Cutting out our non-essential costs is a big deal for Tasha and me, and one of our major resolutions for this year.&lt;/p&gt;
+
+&lt;p&gt;Some of the major improvements include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cleaner design with better typography&lt;/li&gt;
+  &lt;li&gt;Site is totally functional on any device or monitor&lt;/li&gt;
+  &lt;li&gt;Blog archive is organized by tags and content categories&lt;/li&gt;
+  &lt;li&gt;Social sharing buttons (Twitter, Facebook, Pinterest) make it easy to spread the good word&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;We’ll probably add a few separate areas to the site - maybe a photo gallery or something, perhaps a comments section - but we really want the focus of this site to be on our writing. Since we started blogging a few years ago, both Tasha and I have been writing quite a lot. Tasha has worked with &lt;em&gt;Mother Earth News&lt;/em&gt; and The Grow Network and &lt;em&gt;Grit&lt;/em&gt; magazine to share some of her practical knowledge of animal husbandry and horticulture, which has been rapidly evolving since we started here, just about three years ago now.&lt;/p&gt;
 

@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<<<<<<< HEAD
 <loc>http://the-way-back.com/blogs/essays/2017/11/26/on-having-enough.html</loc>
 <lastmod>2017-11-26T02:09:59-05:00</lastmod>
 </url>
 <url>
+=======
+>>>>>>> 3518a3d934a3a8bcf352abef5386a0a6906d1834
 <loc>http://the-way-back.com/blogs/essays/2017/04/03/three-years-in.html</loc>
 <lastmod>2017-04-03T04:09:59-04:00</lastmod>
 </url>
